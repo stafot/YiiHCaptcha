@@ -1,0 +1,7 @@
+{
+   "require": {
+      "guzzlehttp/guzzle": "^4.2.3",
+      "phpseclib/mcrypt_compat": "1.0.11",
+      "ext-json": "*"
+   }
+}
