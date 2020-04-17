@@ -67,4 +67,3 @@ $this->widget('<path-to-destination-folder>.YiiHCaptcha.HCaptcha', [
 ]);
 ?>
 ```
-END.
